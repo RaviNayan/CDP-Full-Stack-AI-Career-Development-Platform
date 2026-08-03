@@ -50,6 +50,6 @@ CLERK_SECRET_KEY=
 
 ## 📸 Demo
 
-Live Demo: *(https://full-stack-ai-knzt6el0m-kankanas-projects-2f4bb06e.vercel.app)*
+Live Demo: *(https://career-development-platform-1s6nhsfi6-ravi-nayans-projects.vercel.app)*
 
 Demo Video: *(https://drive.google.com/file/d/1WbokF_bIidsEhCbuEUvjSXl8Nj9OboNW/view?usp=drive_link)*
